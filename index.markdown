@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome to Youlou
+title: Home
 permalink: /
 ---
 
